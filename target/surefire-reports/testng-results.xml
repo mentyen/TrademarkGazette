@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27451" started-at="2019-10-05T09:39:53 EDT" finished-at="2019-10-05T09:40:20 EDT">
+    <groups>
+      <group name="smoke">
+        <method signature="HomePageTest.homePageOne()[pri:0, instance:com.trademark.testcases.HomePageTest@3327bd23]" name="homePageOne" class="com.trademark.testcases.HomePageTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="27451" started-at="2019-10-05T09:39:53 EDT" finished-at="2019-10-05T09:40:20 EDT">
+      <class name="com.trademark.testcases.HomePageTest">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.trademark.testcases.HomePageTest@3327bd23]" name="generateReport" is-config="true" duration-ms="135" started-at="2019-10-05T09:39:53 EDT" finished-at="2019-10-05T09:39:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.trademark.testcases.HomePageTest@3327bd23]" name="setUp" is-config="true" duration-ms="8171" started-at="2019-10-05T09:39:53 EDT" finished-at="2019-10-05T09:40:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageOne()[pri:0, instance:com.trademark.testcases.HomePageTest@3327bd23]" name="homePageOne" duration-ms="18481" started-at="2019-10-05T09:40:01 EDT" finished-at="2019-10-05T09:40:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.trademark.testcases.HomePageTest@3327bd23]" name="tearDown" is-config="true" duration-ms="634" started-at="2019-10-05T09:40:20 EDT" finished-at="2019-10-05T09:40:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="flushReport()[pri:0, instance:com.trademark.testcases.HomePageTest@3327bd23]" name="flushReport" is-config="true" duration-ms="1" started-at="2019-10-05T09:40:20 EDT" finished-at="2019-10-05T09:40:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- com.trademark.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

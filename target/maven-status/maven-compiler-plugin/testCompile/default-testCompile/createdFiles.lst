@@ -1,0 +1,8 @@
+com\trademark\pages\CaseDetailsPage.class
+com\trademark\utils\ConfigsReader.class
+com\trademark\utils\Constants.class
+com\trademark\utils\ExcellUtils.class
+com\trademark\utils\CommonMethods.class
+com\trademark\pages\HomePage.class
+com\trademark\utils\BaseClass.class
+com\trademark\testcases\HomePageTest.class
